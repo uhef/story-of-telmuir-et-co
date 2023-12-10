@@ -1,5 +1,7 @@
 # Chapter One: Shadows Over Shargon's Teeth
 
+See [original notes](./chapter1-originalnotes.md) from the game session.
+
 In the mystical world of Eberron, Stormreach stood as a beacon of adventure and intrigue. Here, a motley crew of adventurers, each with a unique backstory, had converged. Telmuir, the nature-loving dwarf druid; Sylvanus, the elf ranger with an eye for exploration; Thuule, the boisterous human barbarian; Oliva, the disciplined human monk; and Rumata, the elusive halfling rogue. Their paths had crossed by chance, but their bond was forged in the spirit of camaraderie and adventure.
 
 The group's journey took an unexpected turn when they were hired to guard a flyship en route to Kuvair, an assignment that led them directly into the path of a dark, menacing airship. The ensuing battle was a testament to their resolve and teamwork. Orcs and gnomes, in a surprising alliance, swarmed their vessel in a chaotic assault. Telmuir, in his formidable bear form, and Oliva, with her monk-like precision, stood at the forefront of the defense, while Sylvanus and Thuule provided strategic support.
