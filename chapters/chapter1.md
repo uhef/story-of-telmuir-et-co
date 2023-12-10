@@ -4,7 +4,7 @@ See [original notes](./chapter1-originalnotes.md) from the game session.
 
 TODO:
 * Work on the illustrations:
-** Make the ship look like the elemental airship from D&D.
+  * Make the ship look like the elemental airship from D&D.
 
 In the mystical world of Eberron, Stormreach stood as a beacon of adventure and intrigue. Here, a motley crew of adventurers, each with a unique backstory, had converged. Telmuir, the nature-loving dwarf druid; Sylvanus, the elf ranger with an eye for exploration; Thuule, the boisterous human barbarian; Oliva, the disciplined human monk; and Rumata, the elusive halfling rogue. Their paths had crossed by chance, but their bond was forged in the spirit of camaraderie and adventure.
 
