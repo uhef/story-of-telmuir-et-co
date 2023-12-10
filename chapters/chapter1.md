@@ -24,7 +24,7 @@ Mage was not able to hold the ship in the air for long. The rogue ship's crash i
 
 As dawn's light filtered through the trees, the fellowship, bruised and battered, reunited amidst the debris. Their joyous reunion, however, was cut short by the sudden appearance of Sahuagin, the fish-men inhabitants of the islands. The ensuing conversation, a mix of misunderstandings and cultural faux pas, eventually led to a shaky alliance against a group of pirates working on chopping down the sacred soarwood trees of the islands and leaving them bare.
 
-The relative calm was shattered by the arrival of pirates, sparking a battle that was as chaotic as it was comical. Telmuir, in a strategic yet clumsy move, enveloped the area in a fog cloud, turning the skirmish into a blind dance of swings and misses.
+The relative calm, and intense discussion about the most advantageous strategy going forward, was shattered by the arrival of pirates, sparking a battle that was as chaotic as it was comical. Telmuir, in a strategic yet clumsy move, enveloped the area in a fog cloud, turning the skirmish into a blind dance of swings and misses.
 
 The pirates, taken aback by this unexpected tactic, struggled to regain their footing. Sylvanus, with the aid of the Sahuagin, orchestrated a counterattack, his arrows finding their mark despite the chaos. Thuule, ever the warrior, engaged the pirates with ferocity, his sword a blur as he defended his comrades. A few mishaps and close calls left Sylvanus and Thuule incapacitated before being revived by the magic of their allies.
 
