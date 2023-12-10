@@ -2,8 +2,9 @@
 
 See [original notes](./chapter1-originalnotes.md) from the game session.
 
-Illustrations: Dall-E
-Notes to text: ChatGPT plus some human help
+**Illustrations:** Dall-E
+
+**Notes to text:** ChatGPT plus some human help
 
 TODO:
 * Work on the illustrations:
