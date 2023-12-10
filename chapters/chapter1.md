@@ -1,5 +1,3 @@
-# Chapter One: Shadows Over Shargon's Teeth
-
 See [original notes](./chapter1-originalnotes.md) from the game session.
 
 **Illustrations:** Dall-E
@@ -9,6 +7,8 @@ See [original notes](./chapter1-originalnotes.md) from the game session.
 TODO:
 * Work on the illustrations:
   * Make the ship look like the elemental airship from D&D.
+
+# Chapter One: Shadows Over Shargon's Teeth
 
 In the mystical world of Eberron, lay the vibrant city of Stormreach, a melting pot of adventure and intrigue. Here, in this bustling nexus, a group of unlikely heroes found their fates intertwined. Telmuir, the dwarf druid with a heart yearning for the mysteries of the surface world, had left the confines of his subterranean home to embrace the call of nature. His journey led him to cross paths with Sylvanus, an elf ranger, and Thuule, a human barbarian whose love for battle was matched only by his loyalty. Alongside them were Oliva, a disciplined human monk, and Rumata, a cunning halfling rogue, each with their own tale to tell. United by chance and bound by camaraderie, they were about to embark on an adventure that would test their courage and friendship.
 
