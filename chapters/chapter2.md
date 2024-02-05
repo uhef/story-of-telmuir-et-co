@@ -10,6 +10,8 @@ Deciding to follow the fishmen led by a priest as inscrutable as a cat in a sunb
 
 Upon reaching a beach, the fishmen vanished into the sea, leaving our heroes with a beach party's worth of demon glass spires, a captive pirate, and an increasingly curious Oliva. "Should we dive after them? How well do we swim?" she mused, ignoring the fact that armor and water don't mix well.
 
+![fishmen](../assets/chapter2-fishmen.png)
+
 Deciding against a swim, they opted for a short rest, during which Telmuir suggested investigating the spires. Sylvanus, ever practical, wondered aloud if putting the pirate's head underwater might test the water's quality. The group quickly realized the pirate knew less about their plans than a squirrel knows about open-heart surgery.
 
 After some rest and a questionable meal provided by the fishmen—whose culinary skills left much to be desired—the group was once again on the move. Their dreams that night were vivid and bizarre, filled with images of spires turning into giant chicken legs and pirates running a bakery.
