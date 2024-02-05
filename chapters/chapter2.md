@@ -18,6 +18,8 @@ The next morning, as they awaited their airship ride, a debate ensued about the 
 
 Their escape from the island was as chaotic as their arrival. Oliva's attempt to climb the rope ladder with the grace of an acrobat ended with a tumble that would've made a circus clown proud. Sylvanus, meanwhile, managed to climb aboard only to be buffeted by a gust of wind that threatened to send him flying back down, a reminder that nature had a sense of humor too.
 
+![climbing](../assets/chapter2-climbing.png)
+
 Back on the airship, they were greeted by Captain Lazea, who listened to their tale with a mixture of disbelief and amusement. "You fought off pirates, made friends with fishmen, and survived demon glass spires?" she asked, eyebrow raised. "All in a day's work," Telmuir responded with a grin, omitting the part where they nearly poisoned themselves and turned a simple signal fire into a spectacle.
 
 As they set course for Trolanport, the group reflected on their adventures. They had braved the unknown, faced fearsome enemies, and, most importantly, managed to not drown each other during swimming lessons. Ahead of them lay new challenges, but for now, they enjoyed a moment of peace, laughter echoing on the wind as the airship sailed into the sunset, leaving behind the mysteries of Xendrik for the modern marvels of Zilargo.
