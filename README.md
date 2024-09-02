@@ -5,5 +5,7 @@ This story is based on the ongoing D&D campaign played among current and past Ho
 * [Chapter One: Shadows Over Shargon's Teeth](./chapters/chapter1.md)
 * [Chapter Two: Spire Troubles and Fishy Affairs](./chapters/chapter2.md)
 * [Chapter Three: Letter to the Abbess](./chapters/chapter3.md)
+* ...
+* [Chapter Five: Onwards to New Cyre](./chapters/chapter5.md)
 
 
