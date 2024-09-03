@@ -4,7 +4,7 @@ See [original notes](./chapter5-originalnotes.md) from the game session.
 
 **Notes to text:** ChatGPT 4o plus some human help
 
-# Chapter 5: Shadows of New Cyre (as recollected by Telmur)
+# Chapter 5: Onwards to New Cyre (as recollected by Telmur)
 
 The adventurers were once again scattered across the land. Fonzi, Sylvanus, Oliva, and Thule had their adventure playing out in Starilaskur, while Telmur had unintentionally strayed apart, the weight of exhaustion clouding his mind and leading him astray.
 
@@ -32,7 +32,7 @@ Their journey to New Cyre resumed under heavy rain. The storm grew fierce, causi
 
 The battle was chaotic. Telmur, in his excitement, forgot to secure the horses as he conjured bears to fight the creature. The horses bolted, but Oliva managed to catch and tie them to the wagon. Fonzi, already wounded by the creature’s vicious attacks, was forced to retreat. He cast a blinding spell, giving Bombom the courage to join the fray. Despite their best efforts, the creature proved resilient, shrugging off attacks from Telmur’s conjured bears, Oliva’s staff, and Sylvanus’s arrows.
 
-Suddenly, Sylvanus was lifted high into the air, seven meters above the ground, by some unseen force. The creature, now locked in combat with Telmur’s bears, turned its attention to Sylvanus. It wrapped her in a suffocating embrace, its grip tightening with each passing second. Oliva, from her precarious position in the air, hurled daggers at the creature, while Fonzi unleashed an eldritch blast.
+Suddenly, Oliva was lifted high into the air, seven meters above the ground, by some unseen force. The creature, now locked in combat with Telmur’s bears, turned its attention to Sylvanus. It wrapped her in a suffocating embrace, its grip tightening with each passing second. Oliva, from her precarious position in the air, hurled daggers at the creature, while Fonzi unleashed an eldritch blast.
 
 The storm’s fury reached its peak as lightning struck their wagon, setting its roof ablaze. Amidst the chaos, the creature stopped, growling something in a language none of them understood. Before the group could react, the creature and Sylvanus vanished, leaving behind only a charred wagon and the echo of the storm.
 
