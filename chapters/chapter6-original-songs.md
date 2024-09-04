@@ -74,8 +74,6 @@ The party moved on, with the map in their hand,
 But the goblin’s distrust would forever stand.
 
 
----------
-
 ## Horses song
 
 **(Verse 1)**  
