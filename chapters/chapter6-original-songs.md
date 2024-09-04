@@ -1,3 +1,5 @@
+## Cave goblin song
+
 (Verse 1)  
 In the depths of a cave, where the shadows grow tall,  
 The party gathered, facing the unknown call.  
@@ -74,6 +76,7 @@ But the goblin’s distrust would forever stand.
 
 ---------
 
+## Horses song
 
 **(Verse 1)**  
 The night was cold, the stars were dim,  
