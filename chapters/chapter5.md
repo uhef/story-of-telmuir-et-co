@@ -1,0 +1,15 @@
+# Chapter 5: The Lighting Rail Train Predicament (as recollected by Phonzy Jonz)
+
+The party is finally together including the new companion, Phonzy Jonz. Maybe this time there won't be any splitting up? 
+
+From the windows of the Lightning rail train on a move, a brief sunlight wakes up the party. They find a letter which states that because of their actions during previous adventure they are banished from Zilargo, and to make matters worse, only paid 100g for their efforts. They have no other options, than continue their travel and hope to find some clues that would point them towards Uthrak.
+
+The train stops at Sterngate, where the party is approached by a new person, Joalin, who works Breland railway company, and wants to hire the party to guard a different train cargo, that includes lightning rods and dragonshards. The party agrees as they are in a need for money and don't have any better ideas to where they should head- Before setting off, the heroes spent their day in the city. Phonzy, who is in a desperate need for new pals, summons a pseudodragon as a familiar. The new addition to the party receives a great name: BomBom.
+
+After the train leaves, the party immediately start to check around to see if there is anything suspicious. They do not find anything too peculiar inside the train and the operator of locomotive just asks them to leave. In his great wisdom Telmur changes his form to a monkey and starts an epic task to climb the train and investigate the sealed cargo carts from the outside. Unfortunately this monkeying around goes too far and with an unlucky slip Telmur falls off form the train, which means the party is splitted once more. Sadly the other members of the party are unaware of this monkey business, though they manage to lockpick one of the sealed carts open.
+
+Suddenly, a loud explosion from the front of the train alerts the party. Also they hear some sounds from the top of the cargo cart. Most of the party rushes into the front and are met by some familiar faces: the two gnomes, Zilbig and Jalindra (?) who are equiped with an worrisome amount of dynamite and mischievous plan to steal the cargo. Phonzy, who was smart enough to stay behind and guard the cargo, is me by another bandit entering the train and notices that the enemies have been carried by glidewings. In his great wisdom Phonzy shrouds the cargo with darkness and tries to burn the enemy, but only manages to start an fire, which luckyly he does extinguish. 
+
+The other party, especially Sylvanus, manage to overpower the assaulters. Unfortunately one of the gnomes manages to fly away with a glidewing and grab some of the cargo - the other one drops down and dies. Result of the battle is bittersweet, as they manage to repel some of the bandits, but also some cargo is lost and the train badly damaged.
+
+Meanwhile, Telmur who is monkeying no more, is still alive and breathing and tries to catch the train by turning to a horse, and my my, look at how amazing that horse is. After some traveling, he manages to make a deal with hawk, who gives him some information. In distance, he spots a glidewing flying southwestwards.
