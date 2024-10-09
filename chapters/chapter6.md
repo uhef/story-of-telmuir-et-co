@@ -4,7 +4,7 @@ See [original notes](./chapter5-originalnotes.md) from the game session.
 
 **Notes to text:** ChatGPT 4o plus some human help
 
-# Chapter 5: Onwards to New Cyre (as recollected by Telmur)
+# Chapter 6: Onwards to New Cyre (as recollected by Telmur)
 
 The adventurers were once again scattered across the land. Fonzi, Sylvanus, Oliva, and Thule had their adventure playing out in Starilaskur, while Telmur had unintentionally strayed apart, the weight of exhaustion clouding his mind and leading him astray.
 
@@ -18,7 +18,7 @@ Meanwhile, Telmur, after a restless night and unable to find shelter, decided to
 
 The main group, now somewhat refreshed, decided to first visit the bank before seeking out their, Sion, the person behind the mysterious game of magic. At the House Kundarak bank, the group faced various bureaucratic challenges. Fonzi, to his dismay, found that his personal account statement was missing. After much negotiation, the group established a shared account under the name “PORTS,” a name derived from their initials. They set a daily withdrawal limit of 500 gold pieces each, ensuring their funds were secure. Despite the tedious process, they left the bank with a sense of accomplishment, only to discover that Simon’s tent had disappeared. A neighboring alchemist laughed, assuring them that Simon would find them when the time was right.
 
-![Seal of House Kundarak](../assets/chapter5-seal.png)
+![Seal of House Kundarak](../assets/chapter6-seal.png)
 
 Telmur’s journey was less straightforward. He learned from a Cyrelian traveler named Jake about the current state of New Cyre—a town filled with refugees, led by Prince Oargev, a ruler in exile. The town had seen its share of conflict, with craters surrounding it from battles fought during the war. Telmur’s heart ached with a strange sense of nostalgia as he approached the town, though it was a place he had never called home.
 
@@ -28,7 +28,7 @@ The next morning, the group received a message from House Lyrandar, urging them 
 
 Their journey to New Cyre resumed under heavy rain. The storm grew fierce, causing their horses to panic and bolt into the nearby forest. Telmur, ever attuned to nature, tried to calm the horses, who warned him of a “bad place” ahead. As they struggled to control the wagon, a cat appeared out of nowhere, completely dry despite the downpour. From the shadows of the forest, a creature emerged.
 
-![Cat and party](../assets/chapter5-cat-and-party.png)
+![Cat and party](../assets/chapter6-cat-and-party.png)
 
 The battle was chaotic. Telmur, in his excitement, forgot to secure the horses as he conjured bears to fight the creature. The horses bolted, but Oliva managed to catch and tie them to the wagon. Fonzi, already wounded by the creature’s vicious attacks, was forced to retreat. He cast a blinding spell, giving Bombom the courage to join the fray. Despite their best efforts, the creature proved resilient, shrugging off attacks from Telmur’s conjured bears, Oliva’s staff, and Sylvanus’s arrows.
 
