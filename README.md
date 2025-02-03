@@ -9,5 +9,6 @@ This story is based on the ongoing D&D campaign played among current and past Ho
 * [Chapter Five: The Lighting Rail Train Predicament](./chapters/chapter5.md)
 * [Chapter Six: Onwards to New Cyre](./chapters/chapter6.md)
 * [Chapter Seven: Saving Jartsa](./chapters/chapter7.md)
+* [Chapter Eight: Close Call](./chapters/chapter8.md)
 
 
