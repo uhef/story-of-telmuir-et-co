@@ -37,6 +37,8 @@ House Lyrandar, there is no flyship order from them, and if there was, they woul
 They only refine the kyber dragon shards here to finish the ships – it is a delicate process and
 closed from outsiders.
 
+![Seal of House Lyrandar](../assets/chapter3-seal.png)
+
 Getting nowhere, we kept on walking. The impenetrable wall changed into a less secretive area,
 and the gnome manning the next opening was more jovial. We went with the same story: we are
 here to audit the process of building ships for our patrons at House Lyrandar in preparation for
