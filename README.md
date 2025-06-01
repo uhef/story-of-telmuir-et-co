@@ -4,11 +4,13 @@ This story is based on the ongoing D&D campaign played among current and past Ho
 
 * [Chapter One: Shadows Over Shargon's Teeth](./chapters/chapter1.md)
 * [Chapter Two: Spire Troubles and Fishy Affairs](./chapters/chapter2.md)
-* [Chapter Three: Letter to the Abbess](./chapters/chapter3.md)
+* [Chapter Three: Letters to the Abbess, vol 1](./chapters/chapter3.md)
 * [Chapter Four: Deep into the Solanberg mines](./chapters/chapter4.md)
 * [Chapter Five: The Lighting Rail Train Predicament](./chapters/chapter5.md)
 * [Chapter Six: Onwards to New Cyre](./chapters/chapter6.md)
 * [Chapter Seven: Saving Jartsa](./chapters/chapter7.md)
 * [Chapter Eight: Close Call](./chapters/chapter8.md)
+* [Chapter Nine: Close Call](./chapters/chapter9.md)
+* [Chapter Ten: Letters to the Abbess, vol 2](./chapters/chapter10.md)
 
 
