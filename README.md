@@ -10,7 +10,7 @@ This story is based on the ongoing D&D campaign played among current and past Ho
 * [Chapter Six: Onwards to New Cyre](./chapters/chapter6.md)
 * [Chapter Seven: Saving Jartsa](./chapters/chapter7.md)
 * [Chapter Eight: Close Call](./chapters/chapter8.md)
-* [Chapter Nine: Close Call](./chapters/chapter9.md)
+* [Chapter Nine: Mist and prics thick as mince](./chapters/chapter9.md)
 * [Chapter Ten: Letters to the Abbess, vol 2](./chapters/chapter10.md)
 
 
