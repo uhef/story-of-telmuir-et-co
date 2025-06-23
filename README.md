@@ -12,5 +12,7 @@ This story is based on the ongoing D&D campaign played among current and past Ho
 * [Chapter Eight: Close Call](./chapters/chapter8.md)
 * [Chapter Nine: Mist and prics thick as mince](./chapters/chapter9.md)
 * [Chapter Ten: Letters to the Abbess, vol 2](./chapters/chapter10.md)
+* [Chapter Elevent: TBD...](./chapters/chapter11.md)
+* [Chapter Ten: Fragment from the diary of Telmuir the Dwarf Druid](./chapters/chapter12.md)
 
 
