@@ -13,7 +13,7 @@ And G.R.E.P., for all his gears and logic, speaks with more sparks than subtlety
 The guards saw through the tale faster than a goblin spots a coin purse. And so, before the plan had even drawn its first breath, it died a noisy death — replaced by the old, reliable language of violence.
 
 What followed was chaos worthy of a saga.
-A titan, a mountain of metal, stormed through the doors. Fire and lightning danced around us when Phonzy’s wall of flame turned the office front into a furnace. A well-placed lighting bolt added to the fiery storm we had created. The battle scene quickly turned into a hellfire with acrid smells of ashes and sulfur that seems to become a trademark of our party.
+A titan, a mountain of metal, stormed through the doors. Fire and lightning danced around us when Phonzy’s wall of flame turned the office front into a furnace. A well-placed lighting bolt added to the fiery storm we had created. The battle scene quickly turned into a blazing inferno with acrid smells of ashes and sulfur that seems to become a trademark of our party.
 
 Once the titan had falled, Uthrak appeared from the side of the building. We turned our blows to him but each time we strike at that cursed wretch, he seems to draw strength from the very blows meant to fell him. He drank lightning as though it were mead, and when he shouted to Phonzy to join forces, I swear by the roots of the world-tree — something in the tone chilled my blood. What did he mean by that? And what fire burns behind Phonzy’s eyes that I’ve yet to see?
 
@@ -37,5 +37,5 @@ And now… we rise.
 Into flame, into smoke, into whatever waits above.
 If Uthrak stands there, this time the earth will not grant him another escape.
 
-By root and stone, I swear it.
+By moon, wind and spirits of free animals and green groves, I swear it.
 
